@@ -1,2 +1,6 @@
 # simple_python_projects
-Collection of a few python projects I created as I learned the language.
+Collection of a few Python projects I developed as I began learning the language.
+
+Please feel free to use any projects you'd like. 
+
+Cheers.
